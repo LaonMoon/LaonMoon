@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-i'm interested in NLP(Natural Language Processing) and Story Generation!
+I'm interested in NLP(Natural Language Processing) and Story Generation.
 
 <!--
 **LaonMoon/LaonMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
