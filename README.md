@@ -7,11 +7,11 @@ I'm Jiwon Mun, a Republic of Korea
 
 ### Experiments
 
-2024.03 ~, Natural language processing LAB Intern (Kyung Hee University)
-2024.01 ~ 2024.02 LG Aimers 4th
-2023.08 ~ 2024.01 KHU-KIST Europe Joint Research Lab Intern (KIST Europe Research Intern)
-2023.07 ~ 2023.08 Language & Intelligence Lab Intern (UNIST Summer Undergraduate Research Fellowship)
-2022.09 ~ 2023.01 University MakeUs Challenge 3rd KyungHee University **Leader** (Application development club)
+2024.03 ~, Natural language processing LAB Intern (Kyung Hee University) <br>
+2024.01 ~ 2024.02 LG Aimers 4th <br>
+2023.08 ~ 2024.01 KHU-KIST Europe Joint Research Lab Intern (KIST Europe Research Intern) <br>
+2023.07 ~ 2023.08 Language & Intelligence Lab Intern (UNIST Summer Undergraduate Research Fellowship) <br>
+2022.09 ~ 2023.01 University MakeUs Challenge 3rd KyungHee University **Leader** (Application development club) <br>
 
 <!--
 **LaonMoon/LaonMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
