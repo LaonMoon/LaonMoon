@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-I'm interested in NLP(Natural Language Processing) and Story Generation.
+I'm Jiwon Mun, a Republic of Korea
+
+- I'm interested in NLP(Natural Language Processing) and Story Generation.
+- If you want to know about my projects more specifically 👉🏻[Notion](https://laonm.notion.site/Jiwon-Mun-f4bd7904600848b58387f90731eacbb5?pvs=4)
+
+### Experiments
+
+2024.03 ~, Natural language processing LAB Intern (Kyung Hee University)
+2024.01 ~ 2024.02 LG Aimers 4th
+2023.08 ~ 2024.01 KHU-KIST Europe Joint Research Lab Intern (KIST Europe Research Intern)
+2023.07 ~ 2023.08 Language & Intelligence Lab Intern (UNIST Summer Undergraduate Research Fellowship)
+2022.09 ~ 2023.01 University MakeUs Challenge 3rd KyungHee University **Leader** (Application development club)
 
 <!--
 **LaonMoon/LaonMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
