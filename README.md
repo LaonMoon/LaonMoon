@@ -2,7 +2,7 @@
 
 I'm Jiwon Moon, a Republic of Korea
 
-- I'm interested in NLP(Natural Language Processing) and Story Generation.
+- I'm interested in **NLP(Natural Language Processing)** and **Story Generation**.
 - If you want to know about my projects more specifically 👉🏻[Notion](https://laonm.notion.site/Jiwon-Mun-f4bd7904600848b58387f90731eacbb5?pvs=4)
 
 ### Experiments
