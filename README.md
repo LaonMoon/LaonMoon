@@ -1,4 +1,4 @@
-s### Hi there 👋
+### Hi there 👋
 
 I'm Jiwon Mun, a Republic of Korea
 
